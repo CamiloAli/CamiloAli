@@ -1,7 +1,7 @@
 # 💫 Acerca de mí:
 - 👋 ¡Hola, soy Camilo Ali.
-- 👀 Estoy interesado en ser Desarrollador Full Stack.
-- 🌱 Actualmente estoy aprendiendo JavaScript, HTML, CSS.
+- 👀 Estoy interesado en ser Desarrollador Full Stack. (PROYECTO ABANDONADO)
+- 🌱 Actualmente estoy trabajando como Freelancer en Argentina.
 
 
 ## 🌐 Redes Sociales:
